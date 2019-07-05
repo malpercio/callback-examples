@@ -1,0 +1,23 @@
+{
+  "name": "callback-examples",
+  "version": "1.0.0",
+  "description": "Repository for explaining callbacks ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:malpercio/callback-examples.git"
+  },
+  "author": "malpercio",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "eslint": "^6.0.1",
+    "prettyprint": "^1.1.2",
+    "request": "^2.88.0"
+  }
+}
